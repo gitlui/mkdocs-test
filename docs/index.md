@@ -18,7 +18,17 @@ For full documentation visit [mkdocs.org](https://www.mkdocs.org).
         subfolder         # Creates a navigation
             some-topic.md # Creates a page with the name 'some topic'
 
+## Material for MkDocs
+To have a better theme and quite some nice features we use [Material for MkDoks](https://squidfunk.github.io/mkdocs-material/)
+
+Here is a list of [already included plugins](https://squidfunk.github.io/mkdocs-material/plugins/)
+
+Here are some example [extensions that we could activate](https://squidfunk.github.io/mkdocs-material/reference/admonitions/)
+
+
 ## Here have some mermaid diagrams
+
+The documentation can be found here [Mermaid Diagrams](https://mermaid.js.org/intro/)
 
 ### Flowcharts
 ```mermaid
@@ -124,6 +134,7 @@ gitGraph
    branch develop
    checkout develop
    commit
+
    commit
    checkout main
    merge develop
